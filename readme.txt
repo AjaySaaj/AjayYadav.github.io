@@ -68,19 +68,19 @@ Proper Lite is a multipurpose WordPress theme which can be used to present any t
 == Changelog ==
 
 = 1.2.1 =
-* Fix: font selector now changes the side menu navigation font 
+* Fix: font selector now changes the side menu navigation font
 
 = 1.2.0 =
 * Fix: number input bug in theme customizer
 
 = 1.1.9 =
-* Fix: removed http from Skype social icons
+* Fix: removed http from Skype social icons 
 
 = 1.1.7 =
 * Update: Tested with WordPress 4.5, Updating Font Awesome icons to 4.6, Added Snapchat and Weibo social icon options
 
 = 1.1.6 =
-* Update: added many new social icon options to MT - Social Icons widget
+* Update: added many new social icon options to MT - Social Icons widget  
 
 = 1.1.5 =
 * Fix: mobile menu bug fix for android devices 
